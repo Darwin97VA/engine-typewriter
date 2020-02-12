@@ -1,0 +1,22 @@
+{
+  "name": "engine-typewriter",
+  "version": "0.0.1",
+  "description": "Generate strings fragments from each string item of a array. This string is send through a event.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darwin97VA/engine-typewriter.git"
+  },
+  "keywords": [
+    "typewriter"
+  ],
+  "author": "Darwin Stalin Vilcachagua Ayala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darwin97VA/engine-typewriter/issues"
+  },
+  "homepage": "https://github.com/Darwin97VA/engine-typewriter#readme"
+}
