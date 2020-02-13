@@ -1,6 +1,6 @@
 {
   "name": "engine-typewriter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Generate strings fragments from each string item of a array. This string is send through a event.",
   "main": "index.js",
   "scripts": {
